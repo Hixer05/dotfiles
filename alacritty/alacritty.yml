@@ -1,0 +1,9 @@
+window:
+  # adds padding to the terminal (looks great with rounded corners)
+  padding:
+    x: 20
+    y: 20
+
+  # sets background opacity to 0.1 (10%)
+  opacity: 0.2
+
